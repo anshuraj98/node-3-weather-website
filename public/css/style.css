@@ -1,0 +1,49 @@
+/* complete body design */
+body {
+    color: rgb(24, 12, 51);
+    font-family: arial;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh
+    
+}
+.main-content {
+    flex-grow:1;
+}
+/* complete here footer style designing */
+footer{
+    color: #0a0101;
+    border-top: 1px solid #eeeeee;
+    background: rgb(204, 193, 214);
+    padding: 16px;
+    /* margin: 0 16px; */
+    margin-top: 16px;
+    padding: 16px 0;
+}
+/* Complete here footer Design */
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+/* Complete here menu design */
+h1 {
+    font-size: 64px;
+    margin-bottom: 16px;
+    background: rgb(222, 213, 230);
+}
+
+header a {
+    color: #224306;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+.portrait {
+    width: 250px;
+}
+
